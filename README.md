@@ -52,7 +52,7 @@ The project explores how thoughtful restructuring, improved class design, and se
 
 ## Repository Note
 
-This project was originally developed in a private GitLab repository hosted by the university. After graduation, access to the repository expired and the full codebase is no longer available. This repository contains a reconstructed version of the system along that demonstrate the refactoring approach and architectural improvements applied.
+This project was originally developed in a private GitLab repository hosted by the university. After graduation, access to the repository expired and the full codebase is no longer available. This repository contains a reconstructed version of the system that demonstrate the refactoring approach and architectural improvements applied.
 
 ## Author
 
