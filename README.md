@@ -10,7 +10,7 @@ A refactoring-focused project aimed at improving the design, scalability, and ma
 
 ## Project Overview
 
-Dungeonmania is a dungeon-based puzzle game where players navigate through levels, solve challenges, and interact with entities such as enemies, switches, and collectables.
+Dungeonmania is a dungeon-based puzzle game where players navigate through levels, solve challenges, and interact with entities such as enemies, floor switches, and collectables.
 
 This project focuses on refactoring an existing codebase to improve system structure, readability, and extensibility. The refactor emphasises clean architecture principles and modular design, enabling the system to better support future feature expansion.
 
