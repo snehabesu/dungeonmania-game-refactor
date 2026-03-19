@@ -52,7 +52,7 @@ The project explores how thoughtful restructuring, improved class design, and se
 
 ## Repository Note
 
-This project was originally developed in a private GitLab repository hosted by the university. After graduation, access to the original environment expired so the game can't be played. This repository contains the full codebase and design artefacts demonstrating the refactoring approach and architectural improvements used in the project.
+This project was originally developed in a private GitLab repository hosted by the university. After graduation, access to the original environment expired, so the game may not be fully runnable. This repository contains the full codebase and design artefacts demonstrating the refactoring approach used in the project.
 
 ## Author
 
