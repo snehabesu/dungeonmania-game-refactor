@@ -34,7 +34,7 @@ The project explores how thoughtful restructuring, improved class design, and se
 - Enhanced system organisation for **future feature expansion**
 - Structured project using **clean architecture principles**
 
-## Before Refactor
+## Before Refactoring
 
 - **Tightly coupled classes** with unclear responsibilities
 - **Repetitive logic** across components violating DRY principles
@@ -42,7 +42,7 @@ The project explores how thoughtful restructuring, improved class design, and se
 - **Poor separation of concerns** between game logic and supporting systems
 - **Low maintainability** due to inconsistent structure
 
-## After Refactor
+## After Refactoring
 
 - **Modular design** with clear separation of concerns
 - **Improved class hierarchy** using abstraction and inheritance
