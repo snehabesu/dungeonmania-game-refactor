@@ -1,6 +1,6 @@
 # Dungeonmania Game Refactor
 
-A refactoring-focused project aimed at improving the design, scalability, and maintainability of the Dungeonmania game system (a large-scale codebase) using clean architecture principles, UML modelling and object-oriented design.
+A refactoring-focused project aimed at improving the design, scalability, and maintainability of the Dungeonmania game system (a large-scale codebase) using clean architecture principles, UML modelling, and object-oriented design.
 
 ## Game Preview
 
