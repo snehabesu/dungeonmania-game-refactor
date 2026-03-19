@@ -19,7 +19,7 @@ The project explores how thoughtful restructuring, improved class design, and se
 ## Tools & Technologies
 
 - Java
-- Object-Oriented Programming (OOP)
+- Object-Oriented Design
 - UML Modelling
 - Gradle
 - Checkstyle
