@@ -22,6 +22,7 @@ The project explores how thoughtful restructuring, improved class design, and se
 - Object-Oriented Programming (OOP)
 - UML Modelling
 - Gradle
+- Checkstyle
 - Git & Version Control
 
 ## Key Features
@@ -33,20 +34,21 @@ The project explores how thoughtful restructuring, improved class design, and se
 - Enhanced system organisation for **future feature expansion**
 - Structured project using **clean architecture principles**
 
-## System Architecture
+## Before Refactor
 
-- **Layered and modular design** to separate responsibilities
-- **Refined class relationships** for improved cohesion and reduced coupling
-- **Encapsulation of game logic** for maintainability and extensibility
-- **Scalable structure** supporting additional game features and behaviours
+- **Tightly coupled classes** with unclear responsibilities
+- **Repetitive logic** across components (violating DRY principles)
+- **Rigid design** limiting feature extensibility
+- **Poor separation of concerns** between game logic and supporting systems
+- **Low maintainability** due to inconsistent structure
 
-## Design Principles
+## After Refactor
 
-- **Clean architecture** to ensure separation of concerns
-- **Scalability** by designing extensible class structures
-- **Maintainability** through readable and well-structured code
-- **Reusability** via improved abstraction and inheritance
-- **Consistency** using coding standards and style guidelines (Checkstyle)
+- **Modular design** with clear separation of concerns
+- **Improved class hierarchy** using abstraction and inheritance
+- **Reduced code duplication** through DRY principles
+- **Scalable architecture** enabling easier feature expansion
+- **High maintainability** with cleaner, more readable code
 
 ## Repository Note
 
