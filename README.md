@@ -37,7 +37,7 @@ The project explores how thoughtful restructuring, improved class design, and se
 ## Before Refactor
 
 - **Tightly coupled classes** with unclear responsibilities
-- **Repetitive logic** across components (violating DRY principles)
+- **Repetitive logic** across components violating DRY principles
 - **Rigid design** limiting feature extensibility
 - **Poor separation of concerns** between game logic and supporting systems
 - **Low maintainability** due to inconsistent structure
