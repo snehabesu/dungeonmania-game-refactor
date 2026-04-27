@@ -14,7 +14,7 @@ Dungeonmania is a dungeon-based puzzle game where players navigate through level
 
 This project focuses on refactoring an existing codebase to improve system structure, readability, and extensibility. The refactor emphasises clean architecture principles and modular design, enabling the system to better support future feature expansion.
 
-Overall, it explores how thoughtful restructuring, improved class design, and separation of concerns can significantly enhance the quality and scalability of an existing software system.
+It explores how thoughtful restructuring, improved class design, and separation of concerns can significantly enhance the quality and scalability of an existing software system.
 
 ## Tools & Technologies
 
